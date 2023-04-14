@@ -1,4 +1,4 @@
-const {stringLength} = require ('./string');
+const {stringLength} = require ('../src/string');
 
 test('check length of a string', () => {
   const short = "Hi!";
